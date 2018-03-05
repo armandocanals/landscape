@@ -752,6 +752,12 @@ landscape:
             twitter: 'https://twitter.com/midokura'
             crunchbase: 'https://www.crunchbase.com/organization/midonet'
           - item:
+            name: Multus
+            homepage_url: 'https://builders.intel.com/docs/networkbuilders/multiple-network-interfaces-in-kubernetes-application-note.pdf'
+            repo_url: 'https://github.com/Intel-Corp/multus-cni'
+            logo: 'https://raw.githubusercontent.com/Intel-Corp/multus-cni/master/doc/images/Multus.png'
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
             name: NSX
             homepage_url: 'https://www.vmware.com/products/nsx.html'
             stock_ticker: VMW
@@ -778,12 +784,6 @@ landscape:
             logo: ./hosted_logos/opencontrail.svg
             twitter: 'https://twitter.com/OpenContrail'
             crunchbase: 'https://www.crunchbase.com/organization/opencontrail'
-          - item:
-            name: Plumgrid
-            homepage_url: 'https://www.vmware.com/products/nsx.html'
-            logo: ./hosted_logos/plumgrid.svg
-            twitter: 'https://twitter.com/PLUMgrid'
-            crunchbase: 'https://www.crunchbase.com/organization/plumgrid'
           - item:
             name: Project Calico
             homepage_url: 'https://www.projectcalico.org/'
@@ -1086,6 +1086,12 @@ landscape:
             logo: ./hosted_logos/arangodb.svg
             twitter: 'https://twitter.com/arangodb'
             crunchbase: 'https://www.crunchbase.com/organization/arangodb'
+          - item:
+            name: Azure Cosmos DB
+            homepage_url: 'https://azure.microsoft.com/en-us/services/cosmos-db/'
+            logo: 'https://www.datocms-assets.com/2885/1513729661-azure_logo_blue.svg'
+            twitter: 'https://twitter.com/AzureCosmosDB'
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: BigchainDB
             homepage_url: 'https://www.bigchaindb.com/'
